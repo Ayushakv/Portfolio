@@ -45,9 +45,9 @@ header {
 .jumbotron.text-center {
   padding: 30px 0;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
   input {
-    width: 100px;
+    width: 10px;
     margin-top: 0;
   }
 }
